@@ -1,5 +1,0 @@
-cd mechatronics_degree_pack
-python -m pip install python-docx reportlab openpyxl
-python .\generate_docs.py
-npm i pptxgenjs
-node .\generate_slides.js
